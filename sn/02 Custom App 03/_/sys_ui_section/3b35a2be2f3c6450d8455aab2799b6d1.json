@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "x_11413_custom_03_table_a",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-12-04 11:13:07",
+  "sys_id": "3b35a2be2f3c6450d8455aab2799b6d1",
+  "sys_mod_count": 0,
+  "sys_name": "x_11413_custom_03_table_a",
+  "sys_package": "6eb4a63e2f3c6450d8455aab2799b602",
+  "sys_policy": null,
+  "sys_scope": "6eb4a63e2f3c6450d8455aab2799b602",
+  "sys_update_name": "sys_ui_section_3b35a2be2f3c6450d8455aab2799b6d1",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-12-04 11:13:07",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}
