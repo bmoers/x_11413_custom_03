@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "hint": null,
+  "name": "custom 3",
+  "order": null,
+  "roles": "x_11413_custom_03.table_a_user",
+  "sys_class_name": "sys_ui_application",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-12-04 11:11:56",
+  "sys_id": "1af42e7e2f3c6450d8455aab2799b6ef",
+  "sys_mod_count": 0,
+  "sys_name": "custom 3",
+  "sys_package": "6eb4a63e2f3c6450d8455aab2799b602",
+  "sys_policy": null,
+  "sys_scope": "6eb4a63e2f3c6450d8455aab2799b602",
+  "sys_update_name": "sys_ui_application_1af42e7e2f3c6450d8455aab2799b6ef",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-12-04 11:11:56"
+}

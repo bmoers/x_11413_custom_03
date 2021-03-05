@@ -1,0 +1,23 @@
+{
+  "element": "column",
+  "help": null,
+  "hint": null,
+  "label": "Column",
+  "language": "en",
+  "name": "x_11413_custom_03_table_a",
+  "plural": "Columns",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-12-04 11:12:12",
+  "sys_id": "d2052e7e2f3c6450d8455aab2799b660",
+  "sys_mod_count": 0,
+  "sys_name": "Column",
+  "sys_package": "6eb4a63e2f3c6450d8455aab2799b602",
+  "sys_policy": null,
+  "sys_scope": "6eb4a63e2f3c6450d8455aab2799b602",
+  "sys_update_name": "sys_documentation_x_11413_custom_03_table_a_column_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-12-04 11:12:12",
+  "url": null,
+  "url_target": null
+}

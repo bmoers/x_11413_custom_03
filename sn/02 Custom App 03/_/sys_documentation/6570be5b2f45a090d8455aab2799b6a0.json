@@ -1,0 +1,23 @@
+{
+  "element": "u_active",
+  "help": null,
+  "hint": null,
+  "label": "Active",
+  "language": "en",
+  "name": "x_11413_custom_03_pff",
+  "plural": "Active",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-12-18 11:34:47",
+  "sys_id": "6570be5b2f45a090d8455aab2799b6a0",
+  "sys_mod_count": 1,
+  "sys_name": "Active",
+  "sys_package": "6eb4a63e2f3c6450d8455aab2799b602",
+  "sys_policy": null,
+  "sys_scope": "6eb4a63e2f3c6450d8455aab2799b602",
+  "sys_update_name": "sys_documentation_x_11413_custom_03_pff_u_active_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-12-18 11:35:02",
+  "url": null,
+  "url_target": null
+}
