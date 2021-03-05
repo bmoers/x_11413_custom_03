@@ -2,7 +2,7 @@
   "active": true,
   "array": false,
   "array_denormalized": false,
-  "attributes": null,
+  "attributes": "edge_encryption_enabled=true",
   "audit": false,
   "calculation": {
     "____see": "sn/02 Custom App 03/Dictionary Entry/x_11413_custom_03_pff/active_true/u_active/calculation.js"
