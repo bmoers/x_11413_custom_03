@@ -17,7 +17,7 @@
   "filter_condition": null,
   "is_rest": false,
   "message": null,
-  "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "name": "bbbbbbbbbbbbbbbbbbbbbbbbbbbb",
   "order": 100,
   "priority": 100,
   "rest_method": null,
@@ -27,20 +27,20 @@
   "rest_variables": null,
   "role_conditions": null,
   "script": {
-    "____see": "sn/02 Custom App 03/Business Rule/x_11413_custom_03_pff/active_true/before/aaaaaaaaaaaaaaaaaaaaaaaaaaaaa/script.js"
+    "____see": "sn/02 Custom App 03/Business Rule/x_11413_custom_03_pff/active_true/before/bbbbbbbbbbbbbbbbbbbbbbbbbbbb/script.js"
   },
   "sys_class_name": "sys_script",
   "sys_created_by": "admin",
   "sys_created_on": "2021-03-05 12:24:08",
   "sys_id": "8e1ed3802ff62c10d8455aab2799b60f",
-  "sys_mod_count": 0,
-  "sys_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "sys_mod_count": 1,
+  "sys_name": "bbbbbbbbbbbbbbbbbbbbbbbbbbbb",
   "sys_package": "6eb4a63e2f3c6450d8455aab2799b602",
   "sys_policy": null,
   "sys_scope": "6eb4a63e2f3c6450d8455aab2799b602",
   "sys_update_name": "sys_script_8e1ed3802ff62c10d8455aab2799b60f",
   "sys_updated_by": "admin",
-  "sys_updated_on": "2021-03-05 12:24:08",
+  "sys_updated_on": "2021-03-05 12:26:40",
   "template": null,
   "when": "before"
 }
