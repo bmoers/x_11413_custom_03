@@ -16,6 +16,7 @@
   "number_ref": null,
   "provider_class": null,
   "read_access": true,
+  "scriptable_table": false,
   "super_class": null,
   "sys_class_name": "sys_db_object",
   "sys_created_by": "admin",
